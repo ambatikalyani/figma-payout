@@ -1,0 +1,63 @@
+.store{
+    text-decoration: underline;
+    color: white;
+   }
+   
+   .list-options{
+       list-style: none;
+   }
+   
+   
+   .header {
+       background-color: #333;
+       color: red;
+       padding: 10px;
+       text-align: center;
+     }
+   
+     .container {
+       display: flex;
+       background-color: midnightblue;
+       font-size: medium;
+       color: white;
+       width: 150px;
+       height: 600px;
+       flex-direction: row;
+       padding-left: 20px;
+     }
+
+     .container1{
+        height: 106px;
+        display: flex;
+       background-color: midnightblue;
+       font-size: medium;
+       color: white;
+       width: 150px;
+       height: 600px;
+       flex-direction: row;
+       padding-left: 20px;
+     }
+   
+     .line1{
+       display: flex;
+       gap:1000px;
+     }
+   
+   .lines{
+       display: flex;
+       gap: 1000px;
+   }
+   
+     .sidebar {
+       width: 200px;
+       background-color: black;
+       padding: 20px;
+       float: left;
+     }
+   
+     .main-content {
+       flex: 1;
+       padding: 20px;
+     }
+   
+     
